@@ -1,0 +1,11 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: cuddly-waddle-ts
+  description: ""
+  annotations:
+    github.com/project-slug: JonathanPorta/cuddly-waddle-ts
+spec:
+  type: service
+  lifecycle: production

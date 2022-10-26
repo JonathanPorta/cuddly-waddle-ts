@@ -1,0 +1,10 @@
+.env
+*.zip
+build
+.terraform
+*.tfstate*
+ca-certificates.crt
+tmp
+node_modules
+.terraform*
+.yarn
